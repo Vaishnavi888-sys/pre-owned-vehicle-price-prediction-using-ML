@@ -1,0 +1,50 @@
+ABSTRACT:
+The project titled “Pre-Owned Vehicle Price Prediction using machine learning” aims tobuild a model to predict used car’s reasonable prices based on multiple aspects, includingcar name, year of manufacturing, kilo meters driven, fuel type, transmission, seller type.
+This model can benefit sellers, buyers, and car manufacturers in the used cars market. Uponcompletion, it can output a relatively accurate price prediction based on the information that user’s input. The model building process involves machine learning and data science. Thedataset used was scraped from listings of used cars.
+Various regression methods, includinglinear regression, polynomial regression, support vector regression, decision tree regression, and random forest regression can be used to achieve highest accuracy.By employing LinearRegression, an assemble learning technique, the model able to capture complex relationshipswithin the dataset, resulting in accurate price prediction. The R- Square was calculatedtoevaluate performance of Linear Regression. 
+Before the actual start of model, this project visualized the data to understand the dataset better. The dataset was divided and modifiedtofit the regression, thus ensure the performance of the regression. The resulting model includesmore aspects of used cars, it gives more accurate result while also having a higher predictionaccuracy. 
+Libraries: Numpy, Pandas, Matplotlib.
+
+PROBLEM STATEMENT:
+It is easy for any company to price their new cars because the prices of newcars intheindustry are fixed by the manufacturer with some additional costs incurred by the
+Government in the form of taxes. So, customers buying a new car can be assured of themoney they invest to be worthy. But due to the increased price of new cars and the
+incapability of customers to buy new cars due to the lack of funds, pre-owned cars salesare on a global increase.
+
+PROJECT OBJECTIVE:
+The primary objective of the "Pre-Owned Vehicle price Prediction" project is Preciselydetermining the resale value of used cars is a crucial challenge in the dynamic automotivemarket, with far-reaching consequences for buyers and sellers alike. 
+In this complexprocess, a number of variables are taken into account, such as the mileage, show- roomprice, fuel type, model year and owner type. Our exploration into a data-driven journeyaimed at creating reliable predictive models for calculating pre-owned car prices usingvarious Machine Learning Algorithms. 
+The machine learning algorithms like LinearRegression and Random Forest Regression Algorithms were prompted by the necessityfor a sophisticated strategy to navigate through these complex pricing dynamic values. 
+Regression Algorithms are employed because they offer us with a continuous number asan output rather than a categorized value, allowing us to anticipate the real price of a carrather than its price range. These models leverage historical data encompassing a widearray of features, enabling us to capture the intricate relationships between different
+attributes and the corresponding market values. Machine Learning works algorithmicallyrather than mathematically and permit a machine to learn and adapt its predictions tobest
+fit the data it has trained on machine learning works as a tool for making inferences fromlarge amounts of data, particularly in the context of solving valuation challenges intheused car market. By employing Linear Regression, an assemble learning technique, themodel able to capture complex relationships within the dataset, resulting in accuratepriceprediction. 
+The R- Square was calculated to evaluate performance of Linear Regression. Before the actual start of model- building, this project visualized the data to understandthe dataset better. The dataset was divided and modified to fit the regression, thus ensurethe performance of the regression. The resulting model includes more aspects of usedcars,
+it gives more accurate result while also having a higher prediction accuracy.
+
+SOFTWARE REQUIREMENTS:
+--> Operating System: Windows or Linux
+-->Coding Language: Python 3.11
+
+HARDWARE REQUIREMENTS:
+-->Cpu type: Intel i5 or above
+-->Storage: Sufficient storage for data logging and model storage
+
+FUNCTIONAL REQUIREMENTS
+These are the requirements that the end user specifically demands as basic facilities that thesystem should offer. All these functionalities need to be necessarily incorporated intothesystem as a part of the contract. They are represented or stated in the formof input to begiven to the system, the operation performed, and the output expected. They are basicallytherequirements stated by the user which one can see directly in the final product, unlike thenon-functional requirements. ● Data Ingestion
+● Data Features for Prediction
+● Model Evaluation
+● Performance Monitoring
+● Safety and Data Privacy
+
+NON-FUNCTIONAL REQUIREMENTS:
+These are the quality constraints that the system must satisfy according to the project contract. The priority or extent to which these factors are implemented varies fromone project toanother. They are also called non-behavioral requirements. They basically deal withissueslike:
+● Portability
+● Security
+● Maintainability
+● Reliability
+● Scalability
+● Performance
+● Usability
+● Flexibility
+By ensuring these non-functional requirements are met, the "Pre-Owned Vehicle Price
+Prediction Using Machine Learning" will provide a high-quality, reliable, and user-friendlysolution.
+
