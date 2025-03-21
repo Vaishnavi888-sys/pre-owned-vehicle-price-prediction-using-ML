@@ -1,0 +1,13 @@
+FUTURE SCOPE:
+As AI and ML technologies advance, models can become more accurate and adaptablebyincorporating real-time data from diverse sources such as market trends, economic factors, and consumer behavior.
+The integration of deep learning techniques and advanced naturallanguage processing (NLP) could enhance predictions by analyzing unstructured datalikecustomer reviews and social media sentiments.
+Additionally, the use of blockchaintechnology can improve data transparency and reliability, further refining predictions. Theability to personalize pricing based on individual buyer preferences and leveraging predictiveanalytics for inventory management could revolutionize the used car industry, makingit moreefficient and consumer-friendly.
+Furthermore, the integration of AI-driven negotiationtoolscould assist buyers and sellers in arriving at fair prices, enhancing trust and satisfactioninthetransaction process.
+
+CONCLUSION:
+In the Pre-Owned Cars Price Prediction project, which is employing both linear regression and random forest models, has yielded promising results in predicting car prices. 
+These models were evaluated using the R2 score as the performance metric, and the obtained accuracies were 0.85 for Random forest and a superior 0.89 for Linear regression. 
+The higher accuracy achieved by Linear regression can be attributed to its ability to leverage multiple decision trees, capturing complex relationships within the data more effectively. 
+The R2 score, which measures the proportion of variance explained by the model. This model provides a valuable comparison between single and multiple groups of machine learning algorithms and identifying best model with
+high accuracy and a low error rate for predicting car prices. Therefore, we used the highest R2 score model to predict the pre-owned car price. This project demonstrates
+the practical application of machine learning techniques in the domain of used car price prediction, providing valuable insights for buyers, sellers, and automotive enthusiasts.
